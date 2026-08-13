@@ -37,6 +37,11 @@
   <img src="https://github-readme-stats.shion.dev/api?username=DaveChristopherr&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="GitHub Stats" />
 </p>
 
+<!-- Most Used Languages Card -->
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DaveChristopherr&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa" alt="Most Used Languages" />
+</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=DaveChristopherr&theme=dark&hide_border=true&background=000000&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=aaaaaa" alt="GitHub Streak" />
 </p>
