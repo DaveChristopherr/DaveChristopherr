@@ -44,12 +44,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=3500&color=AAAAAA&center=true&vcenter=true&width=750&lines=%22The+unexamined+life+is+not+worth+living.%22+%E2%80%94+Socrates;%22He+who+has+a+why+to+live+can+bear+almost+any+how.%22+%E2%80%94+Nietzsche;%22We+suffer+more+often+in+imagination+than+in+reality.%22+%E2%80%94+Seneca;%22I+rebel%3B+therefore+we+exist.%22+%E2%80%94+Albert+Camus;%22To+go+wrong+in+one's+own+way+is+better+than+to+go+right+in+someone+else's.%22+%E2%80%94+Fyodor+Dostoevsky;%22I+am+a+cage%2C+in+search+of+a+bird.%22+%E2%80%94+Franz+Kafka" alt="Philosophy Quotes" />
-</p>
-
-<br/>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Pixel Divider" />
 </p>
 
