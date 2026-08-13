@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vcenter=true&width=550&lines=Cinephile+interested+in+philosophy+and+everything." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vcenter=true&width=550&lines=All+repositories+are+private." alt="Typing Animation" />
 </p>
 
 <p align="center">
