@@ -16,7 +16,7 @@
   <a href="https://www.reddit.com/u/davechristopherr/s/KTCj24vaQP"><img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
   <a href="https://x.com/DaveChristophex"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:davechristopherrrr@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://davechristopher.nekoweb.org/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website" /></a>
+  <a href="https://davechristopher.nekoweb.org/"><img src="https://img.shields.io/badge/Personal Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website" /></a>
 </p>
 
 ## Tech Stack
