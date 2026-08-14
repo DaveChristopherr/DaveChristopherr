@@ -11,12 +11,12 @@
 ## Socials
 
 <p align="center">
-  <a href="https://davechristopher.site.je/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Accounts & Socials" /></a>
+  <a href="https://davechristopher.site.je/"><img src="https://img.shields.io/badge/Accounts & Socials-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Accounts & Socials" /></a>
   <a href="https://www.instagram.com/davechristopherr"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.reddit.com/u/davechristopherr/s/KTCj24vaQP"><img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
   <a href="https://x.com/DaveChristophex"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:davechristopherrrr@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://davechristopher.nekoweb.org/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://davechristopher.nekoweb.org/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website" /></a>
 </p>
 
 ## Tech Stack
