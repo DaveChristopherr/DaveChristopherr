@@ -25,7 +25,10 @@
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 <p align="center">
@@ -38,7 +41,6 @@
   <img src="https://github-readme-stats.shion.dev/api?username=DaveChristopherr&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="GitHub Stats" />
 </p>
 
-<!-- Most Used Languages Card -->
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DaveChristopherr&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa" alt="Most Used Languages" />
 </p>
